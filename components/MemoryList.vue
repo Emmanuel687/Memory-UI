@@ -1,8 +1,10 @@
 <template>
-    
+
     <div class="container">
       <h1 class="title">Title</h1>
       <p class="description">Description</p>
+      <Button label="Delete" severity="danger"   class="delete-btn" />
+
     </div>
   </template>
   
@@ -27,9 +29,12 @@
     font-size: 1.2rem;
     color: #666;
   }
+  
   </style>
   
   <script setup>
   // Your script setup goes here
+  import Button from 'primevue/button';
+
   </script>
   

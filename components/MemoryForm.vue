@@ -11,7 +11,7 @@
           <Textarea id="memory" v-model="value" rows="5" cols="30" class="form-input"></Textarea>
         </div>
   
-        <Button label="Submit"  />
+        <Button label="Upload"  />
       </form>
     </div>
   </template>
