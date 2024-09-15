@@ -4,6 +4,7 @@
 ->Component based architecture enables creation of reusable components.
 ->Reactivity which enables automatic update of user interface when data changes.
 ->Use Directives to allow declarative rendering on the DOM, such v-if used for conditional rendering and v-for for rendering list.
+...
 
 ->Lifecycle hooks such as create, mounted, updated and destroyed which are used in various stages of the lifecycle to perform actions.
 NB:-Progressive means you can adopt and use Vue.js incrementally.
